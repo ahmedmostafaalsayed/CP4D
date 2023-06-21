@@ -9,7 +9,7 @@
 * [Manage object storage: Cloud Pak for Data as a Service](https://youtu.be/NGpzUhegDRs)
 
 # Cognos Analytics
-* [Create and share a business analytics dashboard using Watson Studio: Cloud Pak for Data as a Service](https://youtu.be/gj0JGGlohg8)
+* [Create and share a business analytics dashboard: Cloud Pak for Data as a Service](https://video.ibm.com/channel/23952663/video/ws-dashboards)
 
 # Data Virtualization
 * [IBM Cloud Pak for Data: Data Virtualization in Action](https://youtu.be/8qYaqb8oGmw)
